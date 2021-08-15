@@ -1,0 +1,16 @@
+{
+    "name":"go",
+    "desc":"Moves the player into this position",
+    "args":[
+        {
+	        "type":"int",
+	        "isrequired":true
+        },
+        {
+	        "type":"int",
+	        "isrequired":true
+        }
+    ],
+    "methodname":"com.safenar.Methods.go(int,int)",
+    "alt":"Keyword{go,[{com.safenar.Directory,true}],com.safenar.Methods.go(com.safenar.Directory)}"
+}
